@@ -1,0 +1,6 @@
+{
+  "name": "AetherOS - Serverless Web OS",
+  "description": "A high-performance Web Operating System architected for serverless cloud deployment with relational VFS, DOM window manager, and real-time IPC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
